@@ -1,2 +1,0 @@
-# Zac Server
- Server designs
